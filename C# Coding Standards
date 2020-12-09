@@ -1,0 +1,9 @@
+1. Class Name and Method Name should be in pascal case.
+  Ex : class TestMethod()
+2. Method Arguments and local variable name should be in camel case.
+  Ex : string firstName;
+3. Constant variable should de declared in capital letters.
+  Ex: int MIN_AGE = 18;
+4.  Declare the interface name with I in the front
+   Ex: IEmployee
+5. 
