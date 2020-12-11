@@ -1,0 +1,8 @@
+Design patterns provides general resuable solution for the common problem occurs in the software design.
+Design patterns represent an idea rather than the implementation.
+With this able to make code more flexible, reusable and maintanable.
+
+Three types of design patterns
+1. Creational
+2. Structural
+3. Behavioral
